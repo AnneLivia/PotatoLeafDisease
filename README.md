@@ -2,7 +2,7 @@
 
 This repository features a CNN model employing transfer learning with Xception architecture to classify potato leaves into Healthy, Early Blight, and Late Blight diseases.
 
-The model is trained on a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/swastik2004/potato-leaf-diseases/data?select=Healthy). The data was collected from Rashid et al. Multi-Level Deep Learning Model for Potato Leaf Disease Recognition. Electronics. 2021; 10(17):2064. https://doi.org/10.3390/electronics10172064
+The model is trained on a dataset sourced from [Kaggle](https://www.kaggle.com/datasets/swastik2004/potato-leaf-diseases/data?select=Healthy). The data was collected from Rashid et al. Multi-Level Deep Learning Model for Potato Leaf Disease Recognition. Electronics. 2021; 10(17):2064. DOI: https://doi.org/10.3390/electronics10172064
 
 ## Dataset Details:
 
